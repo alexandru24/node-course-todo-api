@@ -3,3 +3,5 @@ node_modules
 /playground/add-guest.js
 /playground/mongodb-test-connection.js
 /playground/query-cities.js
+/playground/mongodb-mongoose.js
+/server
