@@ -4,4 +4,4 @@ node_modules
 /playground/mongodb-test-connection.js
 /playground/query-cities.js
 /playground/mongodb-mongoose.js
-
+/playground/mongoose-query.js
